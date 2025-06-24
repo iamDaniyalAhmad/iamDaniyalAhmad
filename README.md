@@ -1,3 +1,5 @@
+
+
 <!-- Profile Header with Banner and Name -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=220&section=header&text=Daniyal%20Ahmed&fontSize=45&fontAlignY=40&desc=Full%20Stack%20MERN%20Developer%20|%20AI%20&%20ML%20Explorer&descAlignY=60&descAlign=50" />
@@ -44,12 +46,12 @@
 ## ⚙️ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daniyalahmed&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daniyalahmed&theme=github-dark-blue&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iamDaniyalAhmad&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamDaniyalAhmad&theme=github-dark-blue&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=daniyalahmed&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=iamDaniyalAhmad&theme=react-dark&hide_border=true" />
 </p>
 
 ---
@@ -79,9 +81,9 @@
 ## 📬 Let’s Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/daniyalahmeddev/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:daniyalahmedwebdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://intelliwriter.io"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=web&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/daniyal-ahmed-10721024b"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:daniyalahmad.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://daniyalahmed.tech"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=web&logoColor=white" /></a>
 </p>
 
 ---
