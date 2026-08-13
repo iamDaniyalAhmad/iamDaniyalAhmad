@@ -11,8 +11,8 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniyalahmed)
-[![Fiverr](https://img.shields.io/badge/Fiverr-Hire_Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/kLPV0eL)
 [![Email](https://img.shields.io/badge/Email-Get_a_Quote-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniyalahmad.dev@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamDaniyalAhmad)
 
 <br/>
 
@@ -28,13 +28,13 @@
 
 ---
 
-<img align="right" width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamDaniyalAhmad&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF94&text_color=C9D1D9&langs_count=8"/>
+<img align="right" width="360" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamDaniyalAhmad&theme=github_dark"/>
 
 ## 👋 About
 
 I'm a full-stack engineer specialising in **applied AI** — taking language models out of the notebook and into systems that handle real users, real billing, and real traffic.
 
-Over 2+ years I've shipped a 70-tool AI SaaS platform, a national EdTech system used by 5,000+ schools, and a desktop monitoring product with a live subscription tier. My work sits at the intersection of **LLM engineering** and **production software**: retrieval pipelines, streaming interfaces, usage metering, Stripe billing, and AWS deployments that stay up.
+Over 2.5+ years I've shipped a 70-tool AI SaaS platform, a national EdTech system used by 5,000+ schools, and a desktop monitoring product with a live subscription tier. My work sits at the intersection of **LLM engineering** and **production software**: retrieval pipelines, streaming interfaces, usage metering, Stripe billing, and AWS deployments that stay up.
 
 I take on a small number of freelance engagements at a time so each one gets senior-level attention from scoping through launch.
 
@@ -42,7 +42,7 @@ I take on a small number of freelance engagements at a time so each one gets sen
 {
   "role":          "AI Software Engineer @ RobX.AI",
   "location":      "Karachi, Pakistan — working globally",
-  "experience":    "2+ years, production systems",
+  "experience":    "2.5+ years, production systems",
   "specialties":   ["LLM integration", "RAG", "AI SaaS", "automation"],
   "availability":  "Select freelance projects",
   "principle":     "Ships to production. Always."
@@ -267,8 +267,10 @@ Production deploy, documentation, handover session, and 30 days of bug-fix suppo
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=iamDaniyalAhmad&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF94&icon_color=00FF94&text_color=C9D1D9&ring_color=00FF94&include_all_commits=true&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamDaniyalAhmad&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00FF94&ring=00FF94&fire=FF6B35&currStreakLabel=00FF94&sideLabels=C9D1D9" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamDaniyalAhmad&theme=github_dark" width="98%" />
+
+<img src="https://streak-stats.demolab.com?user=iamDaniyalAhmad&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00FF94&ring=00FF94&fire=FF6B35&currStreakLabel=00FF94&sideLabels=C9D1D9" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamDaniyalAhmad&theme=github_dark" width="49%" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamDaniyalAhmad&theme=github-compact&bg_color=0D1117&color=00FF94&line=00FF94&point=FFFFFF&hide_border=true&area=true" width="98%"/>
 
@@ -290,7 +292,6 @@ Tell me what you're building and what's blocking it. You'll get a reply within 2
 
 [![Email](https://img.shields.io/badge/daniyalahmad.dev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniyalahmad.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniyalahmed)
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/kLPV0eL)
 
 <br/>
 
