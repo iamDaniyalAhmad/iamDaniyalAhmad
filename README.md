@@ -28,7 +28,6 @@
 
 ---
 
-<img align="right" width="360" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamDaniyalAhmad&theme=github_dark"/>
 
 ## 👋 About
 
@@ -267,12 +266,27 @@ Production deploy, documentation, handover session, and 30 days of bug-fix suppo
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamDaniyalAhmad&theme=github_dark" width="98%" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FiamDaniyalAhmad&query=public_repos&label=PUBLIC%20REPOS&style=for-the-badge&color=00FF94&labelColor=0D1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/CONTRIBUTIONS-3.8k%2B-00FF94?style=for-the-badge&labelColor=0D1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/ACTIVE_SINCE-2022-00FF94?style=for-the-badge&labelColor=0D1117" />
 
-<img src="https://streak-stats.demolab.com?user=iamDaniyalAhmad&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00FF94&ring=00FF94&fire=FF6B35&currStreakLabel=00FF94&sideLabels=C9D1D9" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamDaniyalAhmad&theme=github_dark" width="49%" />
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamDaniyalAhmad&theme=github-compact&bg_color=0D1117&color=00FF94&line=00FF94&point=FFFFFF&hide_border=true&area=true" width="98%"/>
+<img width="98%" src="https://streak-stats.demolab.com?user=iamDaniyalAhmad&hide_border=true&border_radius=8&background=0D1117&stroke=1F2937&ring=00FF94&fire=00FF94&currStreakLabel=00FF94&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=8B949E&dates=6E7681&date_format=j%20M%5B%20Y%5D" />
+
+<br/><br/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=iamDaniyalAhmad&bg_color=0D1117&color=00FF94&line=00FF94&point=FFFFFF&title_color=00FF94&area_color=00FF94&hide_border=true&area=true&custom_title=Contribution%20Activity%20%E2%80%94%20Last%2031%20Days" />
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamDaniyalAhmad/iamDaniyalAhmad/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamDaniyalAhmad/iamDaniyalAhmad/output/github-snake.svg" />
+  <img width="98%" alt="Contribution graph snake animation" src="https://raw.githubusercontent.com/iamDaniyalAhmad/iamDaniyalAhmad/output/github-snake.svg" />
+</picture>
 
 </div>
 
