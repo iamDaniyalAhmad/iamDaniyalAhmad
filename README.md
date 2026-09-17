@@ -35,7 +35,7 @@
 
 I'm a full-stack developer specialising in **applied AI** — taking features from a raw problem statement to a deployed, production-grade solution that handles real users, real billing, and real traffic.
 
-Over **3+ years** I've shipped across **four live SaaS products**: a 15-tool AI content platform, an AI-driven STEM education platform serving hundreds of schools, a desktop monitoring product with a live subscription tier, and a Netflix-style streaming service. My work sits at the intersection of **LLM engineering** and **production software** — GPT-4, Claude, and RAG pipelines shipped as product features, not just used to write code.
+Over **3+ years** I've shipped across **four live SaaS products**: an AI content platform with 15+ tools, an AI-driven STEM education platform serving hundreds of schools, a desktop monitoring product with a live subscription tier, and a Netflix-style streaming service. My work sits at the intersection of **LLM engineering** and **production software** — GPT-4, Claude, and RAG pipelines shipped as product features, not just used to write code.
 
 I default to figuring things out rather than waiting for a fully-scoped ticket, and I ramp up on unfamiliar stacks quickly — Sequelize ORM, Web3/WalletConnect, and RAG pipelines were all picked up on the job and shipped within weeks. Claude Code, Cursor, and Antigravity are part of my daily build loop.
 
