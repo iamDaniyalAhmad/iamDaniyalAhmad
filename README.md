@@ -6,7 +6,7 @@
 
 ### Full-Stack Developer · AI-Native Product Engineer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2800&pause=900&color=00FF94&center=true&vCenter=true&width=560&lines=LLM+integrations+%C2%B7+RAG+%C2%B7+AI+automation;Full-stack+SaaS+%E2%80%94+Next.js+%C2%B7+Node+%C2%B7+AWS;3%2B+years+across+four+live+SaaS+products;70%2B+AI+tools+shipped+to+paying+users)](https://www.linkedin.com/in/daniyalahmeddev/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2800&pause=900&color=00FF94&center=true&vCenter=true&width=560&lines=LLM+integrations+%C2%B7+RAG+%C2%B7+AI+automation;Full-stack+SaaS+%E2%80%94+Next.js+%C2%B7+Node+%C2%B7+AWS;3%2B+years+across+four+live+SaaS+products;15%2B+AI+tools+shipped+to+paying+users)](https://www.linkedin.com/in/daniyalahmeddev/)
 
 <br/>
 
@@ -35,7 +35,7 @@
 
 I'm a full-stack developer specialising in **applied AI** — taking features from a raw problem statement to a deployed, production-grade solution that handles real users, real billing, and real traffic.
 
-Over **3+ years** I've shipped across **four live SaaS products**: a 70-tool AI content platform, an AI-driven STEM education platform serving hundreds of schools, a desktop monitoring product with a live subscription tier, and a Netflix-style streaming service. My work sits at the intersection of **LLM engineering** and **production software** — GPT-4, Claude, and RAG pipelines shipped as product features, not just used to write code.
+Over **3+ years** I've shipped across **four live SaaS products**: a 15-tool AI content platform, an AI-driven STEM education platform serving hundreds of schools, a desktop monitoring product with a live subscription tier, and a Netflix-style streaming service. My work sits at the intersection of **LLM engineering** and **production software** — GPT-4, Claude, and RAG pipelines shipped as product features, not just used to write code.
 
 I default to figuring things out rather than waiting for a fully-scoped ticket, and I ramp up on unfamiliar stacks quickly — Sequelize ORM, Web3/WalletConnect, and RAG pipelines were all picked up on the job and shipped within weeks. Claude Code, Cursor, and Antigravity are part of my daily build loop.
 
@@ -238,7 +238,7 @@ Production deploy, documentation, handover session, and 30 days of bug-fix suppo
 
 **Problem** — Creators and marketers needed publish-ready written content without the hours-long manual drafting and editing cycle.
 
-**Solution** — Designed and built the GPT-4-powered content-generation engine and backend architecture (Node.js, Express.js, Sequelize/MySQL), including prompt orchestration, content templating, and usage analytics. The platform ships 70+ AI tools — blog writer, SEO optimiser, AI image generator, scholar chat — plus a companion WordPress plugin and Stripe subscription billing with plan-based usage limits.
+**Solution** — Designed and built the GPT-4-powered content-generation engine and backend architecture (Node.js, Express.js, Sequelize/MySQL), including prompt orchestration, content templating, and usage analytics. The platform ships 15+ AI tools — blog writer, SEO optimiser, AI image generator, scholar chat — plus a companion WordPress plugin and Stripe subscription billing with plan-based usage limits.
 
 **Result** — Cut a multi-hour writing workflow down to minutes, turning it into a self-serve, always-on product feature rather than a manual service.
 
