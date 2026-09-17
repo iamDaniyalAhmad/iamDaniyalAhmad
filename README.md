@@ -4,23 +4,25 @@
 
 # Daniyal Ahmed
 
-### AI Software Engineer — I build AI products that reach production
+### Full-Stack Developer · AI-Native Product Engineer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2800&pause=900&color=00FF94&center=true&vCenter=true&width=560&lines=LLM+integrations+%C2%B7+RAG+%C2%B7+AI+automation;Full-stack+SaaS+%E2%80%94+Next.js+%C2%B7+Node+%C2%B7+AWS;70%2B+AI+tools+shipped+to+paying+users;5%2C000%2B+schools+onboarded+nationally)](https://linkedin.com/in/daniyalahmed)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2800&pause=900&color=00FF94&center=true&vCenter=true&width=560&lines=LLM+integrations+%C2%B7+RAG+%C2%B7+AI+automation;Full-stack+SaaS+%E2%80%94+Next.js+%C2%B7+Node+%C2%B7+AWS;3%2B+years+across+four+live+SaaS+products;70%2B+AI+tools+shipped+to+paying+users)](https://www.linkedin.com/in/daniyalahmeddev/)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniyalahmed)
-[![Email](https://img.shields.io/badge/Email-Get_a_Quote-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniyalahmad.dev@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://iamdaniyal.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniyalahmeddev/)
+[![Email](https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniyalahmad.dev@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamDaniyalAhmad)
 
 <br/>
 
-![Available](https://img.shields.io/badge/Status-Available_for_select_projects-00FF94?style=flat-square&labelColor=0D1117)
+![Now](https://img.shields.io/badge/Now-Full_Stack_Developer_%40_Visionscale_Labs-00FF94?style=flat-square&labelColor=0D1117)
+![Location](https://img.shields.io/badge/Karachi%2C_PK-Open_to_relocation-C9D1D9?style=flat-square&labelColor=0D1117)
 ![Response](https://img.shields.io/badge/Response_time-under_24h-C9D1D9?style=flat-square&labelColor=0D1117)
 ![Timezone](https://img.shields.io/badge/PKT_UTC%2B5-overlaps_EU_%26_US_East-C9D1D9?style=flat-square&labelColor=0D1117)
 
-**[Services](#-services)** · **[Engagement](#-how-we-work-together)** · **[Selected Work](#-selected-work)** · **[Stack](#-technology-stack)** · **[Contact](#-lets-build-something)**
+**[Experience](#-experience)** · **[Services](#-services)** · **[Engagement](#-how-we-work-together)** · **[Selected Work](#%EF%B8%8F-selected-work)** · **[Stack](#-technology-stack)** · **[Education](#-education--credentials)** · **[Contact](#-lets-build-something)**
 
 </div>
 
@@ -31,30 +33,66 @@
 
 ## 👋 About
 
-I'm a full-stack engineer specialising in **applied AI** — taking language models out of the notebook and into systems that handle real users, real billing, and real traffic.
+I'm a full-stack developer specialising in **applied AI** — taking features from a raw problem statement to a deployed, production-grade solution that handles real users, real billing, and real traffic.
 
-Over 2.5+ years I've shipped a 70-tool AI SaaS platform, a national EdTech system used by 5,000+ schools, and a desktop monitoring product with a live subscription tier. My work sits at the intersection of **LLM engineering** and **production software**: retrieval pipelines, streaming interfaces, usage metering, Stripe billing, and AWS deployments that stay up.
+Over **3+ years** I've shipped across **four live SaaS products**: a 70-tool AI content platform, an AI-driven STEM education platform serving hundreds of schools, a desktop monitoring product with a live subscription tier, and a Netflix-style streaming service. My work sits at the intersection of **LLM engineering** and **production software** — GPT-4, Claude, and RAG pipelines shipped as product features, not just used to write code.
 
-I take on a small number of freelance engagements at a time so each one gets senior-level attention from scoping through launch.
+I default to figuring things out rather than waiting for a fully-scoped ticket, and I ramp up on unfamiliar stacks quickly — Sequelize ORM, Web3/WalletConnect, and RAG pipelines were all picked up on the job and shipped within weeks. Claude Code, Cursor, and Antigravity are part of my daily build loop.
 
 ```json
 {
-  "role":          "AI Software Engineer @ RobX.AI",
-  "location":      "Karachi, Pakistan — working globally",
-  "experience":    "2.5+ years, production systems",
-  "specialties":   ["LLM integration", "RAG", "AI SaaS", "automation"],
-  "availability":  "Select freelance projects",
+  "role":          "Full Stack Developer @ Visionscale Labs",
+  "location":      "Karachi, Pakistan — open to relocation",
+  "experience":    "3+ years, four live SaaS products",
+  "specialties":   ["LLM integration", "RAG", "AI SaaS", "full-stack"],
+  "workflow":      ["Claude Code", "Cursor", "Antigravity"],
   "principle":     "Ships to production. Always."
 }
 ```
 
-<br clear="right"/>
+---
+
+## 🧭 Experience
+
+### Full Stack Developer (Full-time) · Visionscale Labs
+`Aug 2026 – Present` · Remote
+
+- Promoted from part-time Backend Developer to full-time Full Stack Developer after two months, taking on end-to-end ownership of features across the frontend and backend.
+- Own features from problem definition through to production deployment, working directly with stakeholders to translate loosely-scoped requirements into shipped functionality.
+- Build and maintain both React/Next.js interfaces and backend services, using an AI-native workflow (Claude Code, Cursor) to move quickly without sacrificing code quality.
+
+### Backend Developer (Part-time) · Visionscale Labs
+`Jun 2026 – Aug 2026` · Remote
+
+- Built and maintained backend services and APIs, working with relational data models and existing production codebases.
+- Delivered consistently enough on a part-time basis to be moved into a full-time, broader full-stack role.
+
+### Software Developer · Robx.ai
+`Jun 2024 – Sep 2026` · Remote
+
+- Built scalable backend architectures using Node.js and Express.js with Sequelize ORM on MySQL and MongoDB.
+- Designed and optimised production databases for Intelliwriter.io, IAmScientist.ai, and SnapCheck.
+- Integrated OpenAI GPT-4 and other AI models into production SaaS tools, enabling automated content generation and analytics.
+- Implemented Stripe payment gateway for global transactions and REST API integrations across full-stack features.
+
+### Software Developer Intern · Robx.ai
+`Apr 2024 – Jun 2024` · Remote
+
+- Developed a production-ready currency exchange web application as a solo deliverable.
+- Collaborated with cross-functional teams to design and integrate RESTful APIs between frontend and backend systems.
+
+### Freelance Web Developer · Fiverr
+`Mar 2023 – Feb 2024` · Remote
+
+- Built **Oxcoin** — a blockchain-based Telegram Web App with WalletConnect, Web3 coin-tapping, and a reward redemption system.
+- Delivered **VvookManagement**, a responsive model booking platform for German clothing brands.
+- Maintained 5-star ratings across all completed orders through clear communication and on-time delivery.
 
 ---
 
 ## 💼 Services
 
-Productised engagements with defined scope, deliverables, and timelines. Every project ships with documentation, a handover walkthrough, and post-launch support.
+Alongside my full-time role, I take on a small number of productised freelance engagements with defined scope, deliverables, and timelines. Every project ships with documentation, a handover walkthrough, and post-launch support.
 
 <table>
 <tr>
@@ -196,23 +234,39 @@ Production deploy, documentation, handover session, and 30 days of bug-fix suppo
 
 <br/>
 
-### [Intelliwriter.io](https://intelliwriter.io) &nbsp;·&nbsp; `AI SaaS Platform`
+### [Intelliwriter.io](https://intelliwriter.io) &nbsp;·&nbsp; `AI Content-Generation SaaS`
 
-**Challenge** — Ship a full AI content suite that non-technical marketers can subscribe to and use daily.
+**Problem** — Creators and marketers needed publish-ready written content without the hours-long manual drafting and editing cycle.
 
-**Delivered** — 70+ AI tools including a GPT-4 blog writer, SEO optimiser, AI image generator, and scholar chat, plus a companion WordPress plugin. End-to-end Stripe subscription billing with plan-based usage limits, deployed on AWS and serving paying users globally.
+**Solution** — Designed and built the GPT-4-powered content-generation engine and backend architecture (Node.js, Express.js, Sequelize/MySQL), including prompt orchestration, content templating, and usage analytics. The platform ships 70+ AI tools — blog writer, SEO optimiser, AI image generator, scholar chat — plus a companion WordPress plugin and Stripe subscription billing with plan-based usage limits.
 
-`Next.js` · `GPT-4` · `Stripe` · `AWS` · `PostgreSQL`
+**Result** — Cut a multi-hour writing workflow down to minutes, turning it into a self-serve, always-on product feature rather than a manual service.
+
+`GPT-4` · `Node.js` · `Express.js` · `Sequelize` · `MySQL` · `Stripe` · `AWS`
 
 <br/>
 
-### IAmScientist.ai &nbsp;·&nbsp; `National EdTech Platform`
+### IAmScientist.ai &nbsp;·&nbsp; `AI-Driven STEM Education Platform`
 
-**Challenge** — Run nationwide science contests for schools across Pakistan without buckling under institutional load.
+**Problem** — Schools needed a way to deliver personalised science learning at scale, without a proportional increase in teaching staff or infrastructure cost.
 
-**Delivered** — Onboarded **5,000+ schools**. Built AI-assisted contest management, a proctored online examination system, an affiliate referral programme, and Stripe payments — architected for institutional scale from day one.
+**Solution** — Designed and optimised the relational data architecture (MongoDB/MySQL) behind adaptive, real-time content delivery, and integrated AI-driven personalisation into the learning flow. Includes AI-assisted contest management, a proctored online examination system, an affiliate referral programme, and Stripe payments.
 
-`React` · `Node.js` · `Stripe` · `MySQL`
+**Result** — Scaled to serve thousands of students across hundreds of onboarded schools on the same backend, with no re-architecture required as adoption grew.
+
+`React` · `Node.js` · `MongoDB` · `MySQL` · `Stripe`
+
+<br/>
+
+### Goflixnow.com &nbsp;·&nbsp; `Netflix-Style On-Demand Streaming`
+
+**Problem** — Users needed a smooth, on-demand video experience with reliable account, subscription, and payment handling — the core challenge behind any streaming product.
+
+**Solution** — Built full-stack features spanning secure authentication, Stripe-based subscription/payment integration, and responsive React/Next.js viewing interfaces backed by a scalable Node.js/database layer.
+
+**Result** — Delivered a production-ready streaming experience end-to-end, from content browsing through to paid subscription.
+
+`Next.js` · `React` · `Node.js` · `Stripe`
 
 <br/>
 
@@ -240,25 +294,33 @@ Production deploy, documentation, handover session, and 30 days of bug-fix suppo
 
 | Layer | Technologies |
 |---|---|
-| **AI / LLM** | ![GPT-4](https://img.shields.io/badge/GPT--4-412991?style=flat-square&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude_API-D97706?style=flat-square&logo=anthropic&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![RAG](https://img.shields.io/badge/RAG_Pipelines-FF6B35?style=flat-square) ![Vector DB](https://img.shields.io/badge/Vector_Search-8A2BE2?style=flat-square) |
-| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-303030?style=flat-square&logo=express&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) ![REST](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) |
-| **Data** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
-| **Cloud / DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![CI/CD](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white) |
-| **Commerce** | ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white) ![Subscriptions](https://img.shields.io/badge/Subscriptions_%26_Metering-635BFF?style=flat-square) |
+| **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Frameworks** | ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-303030?style=flat-square&logo=express&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize_ORM-52B0E7?style=flat-square&logo=sequelize&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
+| **Cloud / DevOps** | ![AWS](https://img.shields.io/badge/AWS-EC2_%C2%B7_S3_%C2%B7_Lambda_%C2%B7_RDS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Linux VPS](https://img.shields.io/badge/Linux_VPS-FCC624?style=flat-square&logo=linux&logoColor=black) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![GitHub CI](https://img.shields.io/badge/GitHub_CI-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
+| **AI / LLM** | ![GPT-4](https://img.shields.io/badge/OpenAI_GPT--4-412991?style=flat-square&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Anthropic_Claude-D97706?style=flat-square&logo=anthropic&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![RAG](https://img.shields.io/badge/RAG_Pipelines-FF6B35?style=flat-square) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square) |
+| **AI-Native Dev Tools** | ![Claude Code](https://img.shields.io/badge/Claude_Code-D97706?style=flat-square&logo=anthropic&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-000?style=flat-square&logo=cursor&logoColor=white) ![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white) ![Git worktrees](https://img.shields.io/badge/Git_worktrees-F05032?style=flat-square&logo=git&logoColor=white) |
+| **Other Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![REST](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white) ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+
+**Core competencies** — Autonomous Ownership · Rapid Tech-Stack Adoption · AI-Native Development · Remote Collaboration · Agile / Sprint Workflow · Client & Stakeholder Communication · Technical Documentation · Problem Solving · Cross-functional Teamwork
 
 ---
 
 ## 🎓 Education & Credentials
 
-| Credential | Institution | Date |
-|---|---|---|
-| **BS Computer Science** | Muhammad Ali Jinnah University | 2022 – 2025 |
-| **President's Honor Award** — GPA 3.94 | Muhammad Ali Jinnah University | Jun 2023 |
-| **President's Honor Award** — GPA 3.88 | Muhammad Ali Jinnah University | Dec 2023 |
-| Docker Training for Absolute Beginners | KodeKloud | Dec 2024 |
-| Microsoft .NET Fundamentals | Great Learning | 2024 |
-| Node.js Certification | MindLuster | May 2023 |
+**BS Computer Science** — Muhammad Ali Jinnah University, Karachi · `2022 – 2025`
+
+- Cumulative GPA: **3.84 / 4.0** — Upper First Class Honours equivalent
+- **President's Honor Award** recipient (three times); **Dean's Honor Award**
+
+**Certifications & Training**
+
+| Certification | Issuer |
+|---|---|
+| Git & GitHub | Coursera |
+| Node.js Development | Mind Luster |
+| SQL for Data Science | UC Davis (Coursera) |
+| REST API Development | Great Learning |
 
 ---
 
@@ -305,11 +367,12 @@ Tell me what you're building and what's blocking it. You'll get a reply within 2
 <br/>
 
 [![Email](https://img.shields.io/badge/daniyalahmad.dev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniyalahmad.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniyalahmed)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniyalahmeddev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://iamdaniyal.netlify.app/)
 
 <br/>
 
-<sub>Currently accepting a limited number of new engagements · Karachi, PK (UTC+5) · Working with clients worldwide</sub>
+<sub>Accepting a limited number of new engagements · Karachi, PK (UTC+5) · Open to relocation · Working with clients worldwide</sub>
 
 <br/><br/>
 
