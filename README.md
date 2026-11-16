@@ -31,7 +31,7 @@
 ---
 
 
-## 👋 About
+## 👋 About Me
 
 I'm a full-stack developer specialising in **applied AI** — taking features from a raw problem statement to a deployed, production-grade solution that handles real users, real billing, and real traffic.
 
